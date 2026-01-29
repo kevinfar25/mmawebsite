@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Best MMA - Unleash Your Power",
+  title: "Best MMA - Get Maximum Power",
   description:
     "Best MMA is a premier mixed martial arts gym offering BJJ, Muay Thai, Wrestling, and MMA classes for all skill levels.",
 };

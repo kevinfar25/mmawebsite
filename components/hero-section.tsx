@@ -14,7 +14,7 @@ export function HeroSection() {
           Premier Mixed Martial Arts Training
         </p>
         <h1 className="text-5xl font-extrabold uppercase leading-tight tracking-tight text-foreground sm:text-6xl lg:text-7xl">
-          Unleash Your
+          Get Maximum
           <br />
           <span className="text-primary">Power</span>
         </h1>
