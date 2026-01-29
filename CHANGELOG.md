@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-01-29 18:50
+Changed hero section background to pulsating green.
+
 ## 2026-01-29 18:38
 Changed color scheme from blue/black to red/black per user feedback (closes #2).
 

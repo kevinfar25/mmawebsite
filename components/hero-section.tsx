@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 
 export function HeroSection() {
   return (
-    <section className="relative flex min-h-[80vh] items-center justify-center overflow-hidden bg-background">
+    <section className="relative flex min-h-[80vh] items-center justify-center overflow-hidden bg-green-500 animate-pulse">
       <div className="absolute inset-0 overflow-hidden">
         <div className="absolute left-1/2 top-1/2 h-[600px] w-[600px] -translate-x-1/2 -translate-y-1/2 rounded-full bg-primary/10 blur-[120px]" />
         <div className="absolute right-1/4 top-1/4 h-[300px] w-[300px] rounded-full bg-accent/8 blur-[80px]" />
